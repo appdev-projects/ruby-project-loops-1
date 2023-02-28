@@ -1,4 +1,3 @@
 # Ruby Practice
 
- This project is associated with the [loops chapter](https://firstdraft.github.io/appdev-textbook/loops-chapter.html). The steps to open and run a GitPod project can be found [here](https://firstdraft.github.io/appdev-textbook/string.html#start-gitpod-project).
- 
+This project is associated with the [loops lesson](https://learn.firstdraft.com/lessons/16). The steps to open and run a Gitpod project can be found [here](https://learn.firstdraft.com/lessons/29).
